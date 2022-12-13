@@ -3,7 +3,7 @@ var db = createConnection({
   host: "localhost",
   user: "root",
   password: "password",
-  database: "book_review",
+  database: "athletes",
 });
 
 db.connect();
